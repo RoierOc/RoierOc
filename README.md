@@ -64,5 +64,7 @@
 </p>
 
 
-## ***How to reach me***
+## <h1>***How to reach me*** <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnVhdXh6M3Q1ZGRnOGJ6eTM4b25mbTVnc3I5b3VkZmgzc3R3eGhpMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/k3BaWknGtoURRum0hJ/giphy.gif" width="40" alt="mail"/></h1>
+<div align="left">
+  
 ✉️ Email: [robonillac@unal.edu.co](mailto:robonillac@unal.edu.co)
